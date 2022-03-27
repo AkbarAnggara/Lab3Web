@@ -60,3 +60,11 @@ Dengan begini selesai sudah tugas laporan praktikumnya.<br>
 1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.<br>
 
 # Jawaban
+Kalian bisa mengakses htmlnya dengan klik tombol disamping:[Click Here](lab3_jawaban.html)<br>
+![Screenshot_20.png](Pic/Screenshot_20.png)<br>
+- Keterangan:<br>
+   - Untuk agama kalian bisa memilih salah satu dari banyaknya pilihan<br>
+   - Lalu untuk Ekskul kalian bisa memilih lebih dari satu dengan cara kalian menekan tombol ctrl pada keyboard laptop kalian<br>
+
+Sekian dari saya terimakasih<br>
+#### By:Bangkit Akbar Anggara - 312010148 - TI.20.B.1
