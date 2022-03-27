@@ -28,7 +28,7 @@ Berikut adalah list html yang saya buat kalian bisa mengaksesnya dengan klik tom
      ![Screenshot_11.png](Pic/Screenshot_11.png)<br>
 Dengan begitu selesai sudah kita membuat list html<br>
 
-# HTML tabel
+# HTML Tabel
 Selanjutnya mari kita buat tabel html kalian bisa mengaksesnya dengan klik tombol disamping: [Click Here](lab3_tabel.html)<br>
 - keterangan:<br>
    1.Kita buat judul dan juga tabelnya<br>
