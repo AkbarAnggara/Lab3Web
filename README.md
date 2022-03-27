@@ -67,4 +67,4 @@ Kalian bisa mengakses htmlnya dengan klik tombol disamping:[Click Here](lab3_jaw
    - Lalu untuk Ekskul kalian bisa memilih lebih dari satu dengan cara kalian menekan tombol ctrl pada keyboard laptop kalian<br>
 
 Sekian dari saya terimakasih<br>
-#### By:Bangkit Akbar Anggara - 312010148 - TI.20.B.1
+#### By: Bangkit Akbar Anggara - 312010148 - TI.20.B.1
